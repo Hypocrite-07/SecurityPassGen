@@ -1,3 +1,5 @@
+python SecurityPassGen.py
+
 [Ru]
 
 !Предупреждение!
