@@ -1,3 +1,5 @@
+ONLY PYTHON 2.
+
 python SecurityPassGen.py
 
 [Ru]
