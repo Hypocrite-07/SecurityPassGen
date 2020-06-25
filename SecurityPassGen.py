@@ -46,7 +46,7 @@ def main():
 #You can change.
 
 #Remove '#' for a harder password
-	#secret='QqWwEeRrTtYyUuIiOoPpAaSsDdFfGgHhJjKkLlZzXxCcVvBbNnMm1234567890!@#$%^&*()_-+=~{[}]:;"'<,>.?/\'
+	#secret='QqWwEeRrTtYyUuIiOoPpAaSsDdFfGgHhJjKkLlZzXxCcVvBbNnMm1234567890!@#$%^&*()_-+=~{[}]:;"'<,>.\?/'
 
 	green('SPG Menu')
 	green('1 - Generate pass')
